@@ -97,4 +97,4 @@ Problemas conocidos y notas
 - La API usada en `.env` apunta a MockAPI; para producción deberás cambiar `VITE_API_URL`.
 - Recomendado revisar que no queden referencias a `product.title` o `product.img` tras la normalización.
 ---
-Ecommerce ONE — proyecto de ejemplo para una tienda front-end con React
+Ecommerce ONE — proyecto de ejemplo para una tienda front-end con React - Creado por Nahuel Tempesta.
