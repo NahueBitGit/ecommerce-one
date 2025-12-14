@@ -20,7 +20,7 @@ export default function Layout({ children, title, description }) {
       <BackToTop /> 
 
       <Footer>
-        <p>© 2025 Ecommerce ONE</p>
+        <p>© 2025 Ecommerce ONE | Creado por Nahuel Tempesta</p>
       </Footer>
     </Wrapper>
   );
